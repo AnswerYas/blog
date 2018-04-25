@@ -1,5 +1,5 @@
 # Blog
-# [Javascript](https://github.com/AnswerYas/Blog/projects/1)
+## [Javascript](https://github.com/AnswerYas/Blog/projects/1)
 1. [es6](https://github.com/AnswerYas/Blog/issues/2)
 2. [工具类函数](https://github.com/AnswerYas/Blog/issues/4)
 ***
