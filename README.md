@@ -9,6 +9,9 @@
 ## [Mac](https://github.com/AnswerYas/Blog/projects/2)
 ***
 ## [Html And Css](https://github.com/AnswerYas/Blog/projects/2)
+### pageLayout
 1. [pageLayout](https://github.com/AnswerYas/Blog/issues/3)
+### 屏幕适配
+1. [h5适配iphonex](https://github.com/AnswerYas/Blog/issues/6)
 ***
 
