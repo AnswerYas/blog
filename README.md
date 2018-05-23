@@ -2,7 +2,7 @@
 ## [Javascript](https://github.com/AnswerYas/Blog/projects/1)
 1. [es6](https://github.com/AnswerYas/Blog/issues/2)
 2. [工具类函数](https://github.com/AnswerYas/Blog/issues/4)
-3. [cordova打包](https://github.com/AnswerYas/Blog/issues/7)
+3. [cordova打包流程](https://github.com/AnswerYas/Blog/issues/7)
 ***
 ## [算法](https://github.com/AnswerYas/Blog/projects/2)
 1. [常见排序算法(js实现)](https://github.com/AnswerYas/Blog/issues/1)
